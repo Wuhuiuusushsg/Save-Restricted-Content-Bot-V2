@@ -28,17 +28,17 @@
     },
     "OWNER_ID": {
       "description": "The user ID of the user whom you would like to add as OWNER.",
-      "value": "5034929962",
+      "value": "5034 929962",
       "required": true
     },    
     "FREEMIUM_LIMIT": {
       "description": "Batch size for free users",
-      "value": "0",
+      "value": "20000",
       "required": true
     },
     "PREMIUM_LIMIT": {
       "description": "Batch size for premium users",
-      "value": "10000",
+      "value": "30000",
       "required": true
     },
     "STRING": {
