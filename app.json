@@ -8,17 +8,17 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_id_here",
+      "value": "20054245",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_hash_here",
+      "value": "431f22f320ed5d69225d3b3fc253fc0d",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "your_bot_token_here",
+      "value": "8067699663:AAGBuqBiy8Jlcmo40NengspeKGvM6TbLRcY",
       "required": true
     },
     "MONGO_DB": {
@@ -28,7 +28,7 @@
     },
     "OWNER_ID": {
       "description": "The user ID of the user whom you would like to add as OWNER.",
-      "value": "owner_user_id_here",
+      "value": "5034929962",
       "required": true
     },    
     "FREEMIUM_LIMIT": {
@@ -38,7 +38,7 @@
     },
     "PREMIUM_LIMIT": {
       "description": "Batch size for premium users",
-      "value": "500",
+      "value": "10000",
       "required": true
     },
     "STRING": {
